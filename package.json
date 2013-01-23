@@ -1,0 +1,12 @@
+{
+  "author": "Trimeego",
+  "name": "CodeGate",
+  "version": "0.0.1",
+  "dependencies": {
+    "esprima":">=1.0.2"
+    },
+  "devDependencies": {}
+}
+
+
+
